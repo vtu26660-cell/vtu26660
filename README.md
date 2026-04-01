@@ -4,11 +4,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/vtu26660-cell/vtu26660/tree/master/0387-first-unique-character-in-a-string) |
 | [0496-next-greater-element-i](https://github.com/vtu26660-cell/vtu26660/tree/master/0496-next-greater-element-i) |
 | [0739-daily-temperatures](https://github.com/vtu26660-cell/vtu26660/tree/master/0739-daily-temperatures) |
 ## Stack
 |  |
 | ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/vtu26660-cell/vtu26660/tree/master/0387-first-unique-character-in-a-string) |
 | [0496-next-greater-element-i](https://github.com/vtu26660-cell/vtu26660/tree/master/0496-next-greater-element-i) |
 | [0739-daily-temperatures](https://github.com/vtu26660-cell/vtu26660/tree/master/0739-daily-temperatures) |
 ## Monotonic Stack
@@ -20,4 +22,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0496-next-greater-element-i](https://github.com/vtu26660-cell/vtu26660/tree/master/0496-next-greater-element-i) |
+## Simulation
+|  |
+| ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/vtu26660-cell/vtu26660/tree/master/0387-first-unique-character-in-a-string) |
 <!---LeetCode Topics End-->
